@@ -20,9 +20,24 @@ li {
   overflow-x: hidden;
 }
 
+.cart-actions {
+  color: white;
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  line-height: 50px;
+  margin: 0;
+  border: none;
+  background: rgb(10, 7, 24);
+}
+
 .cartItem {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   border: 1px solid black;
   border-radius: 10px;
   padding: 20px;
@@ -30,11 +45,4 @@ li {
   font-weight: bold;
   background: #2f3c7e;
   color: #fbeaeb;
-}
-.cart-actions {
-  color: white;
-  font-size: 20px;
-  width: 50px;
-  border: none;
-  background: rgb(10, 7, 24);
 }

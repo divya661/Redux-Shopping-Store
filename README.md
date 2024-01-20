@@ -23,9 +23,15 @@ Your app is ready to be deployed!
 # Redux-Shopping-Store
 
 ## Login Page
+- Enter any id & password and click on Login button
+- It will redirect to Homepage
+  
 ![Login Page Image](https://github.com/divya661/Redux-Shopping-Store/blob/main/screenshots/Login%20Page.png?raw=true)
 
 ## HomePage
+- Inside Cart button you might observe that the count is not 0 sometimes, it is due to this application don't have authentication flow
+- Cart items count reflect the count already present in the realtime database of firebase
+- If you will click on Cart button, then below product listing Cart Items will display
 ![Home Page Image containing product list](https://github.com/divya661/Redux-Shopping-Store/blob/main/screenshots/Products%20List.png?raw=true)
 
 ## Cart Items 

@@ -23,8 +23,16 @@ Your app is ready to be deployed!
 # Redux-Shopping-Store
 
 ## Login Page
+![Login Page Image](https://github.com/divya661/Redux-Shopping-Store/blob/main/screenshots/Login%20Page.png?raw=true)
 
 ## HomePage
+![Home Page Image containing product list](https://github.com/divya661/Redux-Shopping-Store/blob/main/screenshots/Products%20List.png?raw=true)
+
+## Cart Items 
+- When we click on cart button in header it opens the cart products list 
+- Hides when cart button in header clicked again
+
+![Containg products current present in cart](https://github.com/divya661/Redux-Shopping-Store/blob/main/screenshots/Add%20Product.png?raw=true)
 
 ## Realtime Database Firebase
-# Redux-Shopping-Store
+![Database used for fetching & updating cart items in DB](https://github.com/divya661/Redux-Shopping-Store/blob/main/screenshots/Realtime%20DB%20Firebase.png?raw=true)
